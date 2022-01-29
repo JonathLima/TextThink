@@ -27,16 +27,16 @@
 <a href="https://reactjs.org/">
   <img alt="ReactJS" src="https://img.shields.io/static/v1?color=blue&label=React&message=JS&?style=plastic&logo=React">
 </a>
-  <a href="https://styled-components.com/">
+<!--   <a href="https://styled-components.com/">
    <img alt="Styled-Components"  src="https://img.shields.io/badge/style-%F0%9F%92%85%20styled--components-orange.svg?colorB=daa357&colorA=db748e">
-  </a>
+  </a> -->
 
 </p>
 
 ## 🎨 Layout
 
 <div align="center">
-<img margin:"0px" "Get-Issues" src="https://i.imgur.com/xw4YKeu.png">
+<img margin:"0px" "Text-Think" src="https://i.imgur.com/Zg6hts9.png">
 </div>
 
 ## 🚀 Sobre o Projeto
@@ -104,7 +104,7 @@ Feito com ❤️ por Jonathan Silva 👋🏽 [Entre em contato!](https://www.lin
 [nodemon]: https://www.npmjs.com/package/nodemon
 [rs]: https://rocketseat.com.br
 
-[scss]:[https://sass-lang.com/]
+[scss]: https://sass-lang.com/
 [license]: https://opensource.org/licenses/MIT
 [postgres]: https://www.postgresql.org/
 [multer]: https://www.npmjs.com/package/multer
